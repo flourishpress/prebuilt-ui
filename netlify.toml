@@ -2,7 +2,7 @@
   command = "npm run netlify-build"
 
 [template.environment]
-  DAILY_API_KEY = "Replace with API key"
+  DAILY_API_KEY = "ba16e89c64b16f49e9e6d858d905079e3a93f4989752a6579eed78dae0b097e9"
 
 [[redirects]]
   # Proxies the Daily /rooms endpoint, POST will create a room and a GET will return a list 
